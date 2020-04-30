@@ -9,6 +9,7 @@ import com.vishrosh.eventsystem.core.Event;
 import com.vishrosh.eventsystem.core.EventBus;
 import com.vishrosh.eventsystem.core.EventBusSubscribers;
 import com.vishrosh.eventsystem.core.EventSubscriber;
+import com.vishrosh.eventsystem.core.EventType;
 import com.vishrosh.eventsystem.core.EventTypes;
 
 public class EventHelpers {
